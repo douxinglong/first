@@ -1,5 +1,6 @@
 # first
 taiji-dxl
+<<<<<<< master
 #dav firtchang
 
 #dav 123change
@@ -18,5 +19,3 @@ taiji-dxl
 
 1222ss
 
-=======
->>>>>>> bced03a dav change
